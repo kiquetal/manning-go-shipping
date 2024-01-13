@@ -5,4 +5,9 @@
 - Outlining phases of product growth and development
 - Iterating between various feedback cycles.
 
+![build-product](../images/chpater1/build-product.png)
+
+
+
+
 
