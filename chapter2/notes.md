@@ -10,13 +10,22 @@ Create README.md.
     Software milestone
 
 - A greenfield project
-
   
-
+      Create a makefile.
+      Standarization and documentation, you establish a guide on how to work on this product. Standarization our system
+      allows other to contribute it.
 
 - The assembly line
+ 
+      Most companies do not need artisanal software, they need predicitibility and reliability.
+      Continous integration pipeline.
+      Github actions.
+      
 
 - Warehouse
+
+
+
 
 - Material
 
