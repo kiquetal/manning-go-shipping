@@ -11,4 +11,10 @@
 - Stub can be great placeholder while code is under development.
 - Mocks are stubs with an expectation. They are used to verify that a method is called with the right parameters.
 
+### Types of Test
 
+| Type | Pros | Cons |
+| ---- | ---- | ---- |
+| Stub | Easy to create and manipulate | Verification can become complicated|
+| Mock | Records interactions for later verification | More complex setup and teardown | 
+| Fake | Higher-fidelity interactions with a simulated system | Complicated to write and maintan | 
