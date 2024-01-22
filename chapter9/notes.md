@@ -1,14 +1,3 @@
-#### Semantic versioning
+### Integration testing
 
-v.1.2.3
-Major
-Minor
-Patch
-
-#### Accountability and handling failure
-
-Mistakes are going to happen. They happen to every person and every team. Companies will often see a mistake
-as a failure in process or people and will add additional constraints and textend deployment timelines
-to be sure there aren't any bugs or problems. Teams will be created to ensure the quality of a product
-before it is shipped, often leading to longer and longer lead times.
 
